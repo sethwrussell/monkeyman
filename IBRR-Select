@@ -96,8 +96,11 @@ SELECT TOP 1000 [Contract Number]
   FROM [IBRR].[dbo].[IBRR]
   
 /**
+Adding a second query to count the total number of contracts in the dataset
+ **/
+
   USE IBRR
   SELECT COUNT(DISTINCT "Contract Number")
   FROM dbo.IBRR
- **/
+ 
   
