@@ -1,5 +1,3 @@
 monkeyman
-This is a test repo to help learn github
+This is a repo to help learn github using the IBRR database
 =========
-
-Can I push this request? 
